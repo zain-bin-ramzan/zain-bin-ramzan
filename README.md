@@ -31,7 +31,7 @@ I'm a Full Stack Web Developer, I spend most of time coding awesome Webapps  <im
 
 
 ___
-<br />
+
 
 ## Projects
 
