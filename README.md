@@ -5,10 +5,10 @@ I'm a Full Stack Web Developer, I spend most of time coding awesome Webapps  <im
 📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-babbili.dxb-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:babbili.dxb@gmail.com)
 
 
-<br />
+
 
 ### Top Technologies Used
-<br />
+
 
 
  <div align="left">
@@ -35,7 +35,7 @@ ___
 
 ## Projects
 
-<br />
+
 
 - ### [giftandmore.shop](https://giftandmore.shop)
   <small>https://giftandmore.shop</small><br />
@@ -59,4 +59,3 @@ ___
 >Workbox as ServiceWorker<br />
 >Cool gradient colors SVG's animated with GSAP3
 
-<br />
