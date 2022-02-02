@@ -48,7 +48,7 @@ ___
 > NGINX server with Cyber security configuration  <small> *XSS attacks prevntion, input sanitization, CSP*</small><br />
 >SEO through code, ld+JSON schema.org markups
 
-<br />
+
 
 - ### [Live Assistant](https://live-assistant-60875.web.app) 
   <small>https://live-assistant-60875.web.app</small><br />
