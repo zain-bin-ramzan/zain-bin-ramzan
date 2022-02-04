@@ -44,7 +44,7 @@ ___
 
 > Node Js MVC pattern ecommerce Webapp <br />
 > Pleasant mobile responsive UX/UI, animation on scroll<br />
-> PayPal service-side integration<br />
+> PayPal server-side integration<br />
 > NGINX server with Cyber security configuration  <small> *XSS attacks prevntion, input sanitization, CSP*</small><br />
 >SEO through code, ld+JSON schema.org markups
 
