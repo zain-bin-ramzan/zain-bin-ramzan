@@ -21,6 +21,7 @@ I'm a Full Stack Web Developer, I spend most of time coding awesome Webapps  <im
  [![webpack](https://img.shields.io/badge/-Webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=ffffff)](#)
  [![GraphQl](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&logo=graphql&logoColor=ffffff)](#)
  [![GraphCMS](https://img.shields.io/badge/-Graph%20CMS-726d9c?style=for-the-badge&logo=graphql&logoColor=726dde)](#)
+ [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
  [![Firebase](https://img.shields.io/badge/-Firebase-343c46?style=for-the-badge&logo=firebase&logoColor=FFCA28)](#)
  [![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)](#)
  [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff)](#)
@@ -36,6 +37,16 @@ ___
 ## Projects
 
 
+- ### [FLIPCOINS](https://flipcoins.vercel.app/) 
+  <small>https://flipcoins.vercel.app</small><br />
+
+<img src="./img/flipcoins.png" width="280px" height="auto" style="border-radius: 10px;" />
+
+>Next Js Cryptocurrencies Live prices, Exchanges & news webapp<br />
+>Hybrid: Server Side Rendering & Static Site Generation, Dynamic Routing<br />
+>Chart.js price changes animated graphs<br />
+>mobile responsive React Js frontend
+ 
 
 - ### [giftandmore.shop](https://giftandmore.shop)
   <small>https://giftandmore.shop</small><br />
@@ -50,8 +61,8 @@ ___
 
 
 
-- ### [Live Assistant](https://live-assistant-60875.web.app) 
-  <small>https://live-assistant-60875.web.app</small><br />
+- ### [Live Assistant](https://live-assistant.web.app) 
+  <small>https://live-assistant.web.app</small><br />
 
 <img src="./img/live-assistant.png" width="280px" height="auto" style="border-radius: 10px;" />
 
