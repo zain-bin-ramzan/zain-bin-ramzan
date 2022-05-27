@@ -45,6 +45,7 @@ ___
 >Next Js Cryptocurrencies Live prices, Exchanges & news webapp<br />
 >Hybrid: Server Side Rendering & Static Site Generation, Dynamic Routing<br />
 >Chart.js price changes animated graphs<br />
+>3D flip animated logo
 >mobile responsive React Js frontend
  
 
