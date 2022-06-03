@@ -1,4 +1,4 @@
-## Hi, I'm @Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm @Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
 
 I'm a Full Stack Web Developer, I spend most of time coding awesome Webapps  <img src="./img/shootingstar.svg" width=25px height="auto" alt="star" />
 
@@ -45,7 +45,7 @@ ___
 >Next Js Cryptocurrencies Live prices, Exchanges & news webapp<br />
 >Hybrid: Server Side Rendering & Static Site Generation, Dynamic Routing<br />
 >Chart.js price changes animated graphs<br />
->3D flip animated logo
+>3D transform-style animated logo<br />
 >mobile responsive React Js frontend
  
 
