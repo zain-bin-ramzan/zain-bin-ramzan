@@ -11,22 +11,22 @@ I'm a Google Cloud DevOps Engineer, i offer DevOps services and migrating applic
 
 <div align="left">
 
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)]()
-[![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'GKE')
-[![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd')
-[![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy Delivery Pipelines')
-[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks')
-[![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-13102d?style=for-the-badge&logo=&logoColor=ffffff)](# 'Serverless Google Cloud Run services, Cloud Run Jobs')
-[![PubSub](https://img.shields.io/badge/-PubSub-090916?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud PubSub realtime streaming messaging system')
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](# 'Google Cloud Platform')
+[![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
+[![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
+[![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy delivery pipelines, release management, versioning')
+[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN')
+[![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-13102d?style=for-the-badge&logo=&logoColor=ffffff)](# 'serverless Google Cloud Run services, Cloud Run Jobs')
+[![PubSub](https://img.shields.io/badge/-PubSub-090916?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Pub/Sub messaging system')
 [![Cloud Scheduler](https://img.shields.io/badge/-Cloud%20Scheduler-1b1a42?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Scheduler')
-[![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-151433?style=for-the-badge&logo=&logoColor=ffffff)](# 'Servereless Google Cloud Functions')
+[![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-151433?style=for-the-badge&logo=&logoColor=ffffff)](# 'serverless Google Cloud Functions')
 [![Anthos](https://img.shields.io/badge/-Anthos-33317c?style=for-the-badge&logo=&logoColor=ffffff)](# 'Multi-cloud Kubernetes Engine')
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
 [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=ffffff)](# 'Helm Charts')
 [![Argo](https://img.shields.io/badge/-ArgoCD%20Argo%20Workflow-EF7B4D?style=for-the-badge&logo=Argo&logoColor=fff)](# 'ArgoCD, Argo Workflow')
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
-[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana')
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
 [![Azure](https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=fff)](# 'Microsoft Azure')
 
@@ -49,10 +49,12 @@ I'm a Google Cloud DevOps Engineer, i offer DevOps services and migrating applic
  [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](#)
  [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](#)
  [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)](#)
- [![GraphQl](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&logo=graphql&logoColor=ffffff)](#)
- [![Firebase](https://img.shields.io/badge/-Firebase-343c46?style=for-the-badge&logo=firebase&logoColor=FFCA28)](#)
- [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](#)
+ [![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnubash&logoColor=FFF)](#)
+ [![GraphQl](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&logo=graphql&logoColor=ffffff)](# 'GraphQl, Graph CMS')
  [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff)](#)
+ [![Firebase](https://img.shields.io/badge/-Firebase-343c46?style=for-the-badge&logo=firebase&logoColor=FFCA28)](# 'Firebase hosting, Firebase Cloud Functions, Firestore, Firebase realtime database, Firebase Auth')
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](#)
+ [![CSS3](https://img.shields.io/badge/-CSS3-6441A4?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](# 'CSS, Sass')
 [![GSAP](https://img.shields.io/badge/-GSAP%203-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](#)
 </div>
 
@@ -86,13 +88,4 @@ ___
 >3D transform-style animated logo<br />
 >a native like experience on mobile
  
-
-- ### [Live Assistant](https://live-assistant.web.app) 
-  <small>https://live-assistant.web.app</small><br />
-
-<img src="./img/live-assistant.png" width="280px" height="auto" style="border-radius: 10px;" />
-
->React Js Firebase live chat assistant PWA<br />
->Workbox as ServiceWorker<br />
->Cool gradient colors SVG's animated with GSAP3
 
