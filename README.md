@@ -1,6 +1,6 @@
 ## Hi, I'm Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
 
-I'm a Cloud Native & Google Cloud DevOps Engineer, i offer DevOps services and migrating applications to GCP
+I'm a Cloud Native & Google Cloud DevOps Engineer, my focus is on helping businesses implementing DevOps & SRE practices, and migrating applications to GCP
 
 📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-babbili.dxb@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:babbili.dxb@gmail.com)
 
@@ -19,6 +19,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, i offer DevOps services and m
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
 [![CNCF](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=fff)](# 'Datadog')
 [![CNCF](https://img.shields.io/badge/-Cloud%20Native-0086FF?style=for-the-badge&logo=Cncf&logoColor=fff)](# 'Cloud Native')
+[![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](# 'Google Cloud Platform')
 [![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
 [![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
@@ -30,6 +31,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, i offer DevOps services and m
 [![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-151433?style=for-the-badge&logo=&logoColor=ffffff)](# 'serverless Google Cloud Functions')
 [![Anthos](https://img.shields.io/badge/-Anthos-33317c?style=for-the-badge&logo=&logoColor=ffffff)](# 'Multi-cloud Kubernetes Engine')
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=fff)](# 'Jenkins')
 [![Azure](https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=fff)](# 'Microsoft Azure')
 
 
@@ -61,7 +63,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, i offer DevOps services and m
 </div>
 
 
-___
+<!-- ___
 
 
 ## Projects
@@ -89,5 +91,5 @@ ___
 >Chart.js price changes graphs animated onLoad<br />
 >3D transform-style animated logo<br />
 >a native like experience on mobile
- 
+  -->
 
