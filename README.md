@@ -1,6 +1,6 @@
 ## Hi, I'm Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
 
-I'm a Cloud Native & Google Cloud DevOps Engineer, my focus is on helping businesses implementing DevOps & SRE practices, and migrating applications to GCP
+I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementing DevOps & Site Reliability Engineering, Kubernetes hybrid setup (on-prem + cloud), Kubernetes security & compliance, migrating applications to GCP, applications monitoring & observability
 
 📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-babbili.dxb@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:babbili.dxb@gmail.com)
 
@@ -14,6 +14,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, my focus is on helping busine
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
 [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=ffffff)](# 'Helm Charts')
+[![Istio service mesh](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)](# 'Istio service mesh, multi-cluster service mesh')
 [![Argo](https://img.shields.io/badge/-ArgoCD%20Argo%20Workflow-EF7B4D?style=for-the-badge&logo=Argo&logoColor=fff)](# 'ArgoCD, Argo Workflow')
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
