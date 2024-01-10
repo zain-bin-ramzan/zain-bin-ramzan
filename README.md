@@ -1,4 +1,4 @@
-## Hi, I'm Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
+## Hi, I'm Mohammed Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
 
 I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementing DevOps & Site Reliability Engineering, Kubernetes hybrid setup (on-prem + cloud), Kubernetes security & compliance, migrating applications to GCP, applications monitoring & observability
 
@@ -64,7 +64,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementi
 </div>
 
 
-<!-- ___
+___
 
 
 ## Projects
@@ -76,7 +76,7 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementi
 
 > Node Js MVC pattern ecommerce Webapp <br />
 > GCP Containerized Compute Engine VM with Cloud Build ci/cd <br />
-> NGINX server with Cyber security configuration  <small> *XSS attacks prevntion, input sanitization, CSP*</small><br />
+> NGINX server with Cyber security configuration  <small> *XSS attacks prevntion, Content Security Policy*</small><br />
 > PayPal server-side integration<br />
 > Pleasant mobile responsive UX/UI, animation on scroll<br />
 > SEO through code, ld+JSON schema.org markups
@@ -87,10 +87,15 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementi
 
 <img src="./img/flipcoins.png" width="280px" height="auto" style="border-radius: 10px;" />
 
->Next Js Cryptocurrencies Live prices, Exchanges & news webapp<br />
->Hybrid: Server Side Rendering & Static Site Generation, Dynamic Routing<br />
->Chart.js price changes graphs animated onLoad<br />
+>Next Js Hybrid webapp: Server Side Rendering & Static Site Generation<br />
+>Dynamic Routing<br />
 >3D transform-style animated logo<br />
 >a native like experience on mobile
-  -->
 
+
+- ### [VR Blog](https://vr-blog.vercel.app/) 
+  <small>https://vr-blog.vercel.app</small><br />
+
+
+Check for more in my code repositories
+ 
