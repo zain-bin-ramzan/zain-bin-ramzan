@@ -1,4 +1,4 @@
-## Hi, I'm Mohammed Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
+## Hi, I'm Babbili <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
 
 I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementing DevOps & Site Reliability Engineering, Kubernetes hybrid setup (on-prem + cloud), Kubernetes security & compliance, migrating applications to GCP, applications monitoring & observability
 
@@ -64,10 +64,8 @@ I'm a Cloud Native & Google Cloud DevOps Engineer, helping businesses implementi
 </div>
 
 
-___
 
-
-## Projects
+<!-- ## Projects
 
 - ### [giftandmore.shop](https://giftandmore.shop)
   <small>https://giftandmore.shop</small><br />
@@ -98,4 +96,4 @@ ___
 
 
 Check for more in my code repositories
- 
+  -->
