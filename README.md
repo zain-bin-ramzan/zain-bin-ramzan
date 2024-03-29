@@ -13,9 +13,7 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
-[![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=ffffff)](# 'Helm Charts')
 [![Istio service mesh](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)](# 'Istio service mesh, multi-cluster service mesh')
-[![Argo](https://img.shields.io/badge/-ArgoCD%20Argo%20Workflow-EF7B4D?style=for-the-badge&logo=Argo&logoColor=fff)](# 'ArgoCD, Argo Workflow')
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
 [![CNCF](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=fff)](# 'Datadog')
@@ -25,16 +23,9 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 [![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
 [![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
 [![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy delivery pipelines, release management, versioning')
-[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN')
-[![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-13102d?style=for-the-badge&logo=&logoColor=ffffff)](# 'serverless Google Cloud Run services, Cloud Run Jobs')
-[![PubSub](https://img.shields.io/badge/-PubSub-090916?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Pub/Sub messaging system')
-[![Cloud Scheduler](https://img.shields.io/badge/-Cloud%20Scheduler-1b1a42?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Scheduler')
-[![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-151433?style=for-the-badge&logo=&logoColor=ffffff)](# 'serverless Google Cloud Functions')
-[![Anthos](https://img.shields.io/badge/-Anthos-33317c?style=for-the-badge&logo=&logoColor=ffffff)](# 'Multi-cloud Kubernetes Engine')
+[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN'))
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=fff)](# 'Jenkins')
-[![Azure](https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=fff)](# 'Microsoft Azure')
-
 
 </div>
 
