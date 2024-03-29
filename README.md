@@ -11,8 +11,6 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 
  <div align="left">
 
-[![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnubash&logoColor=FFF)](#)
-[![Go](https://img.shields.io/badge/-GO-000?style=for-the-badge&logo=go&logoColor=00ADD8)](#)
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](#)
 [![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](#)
@@ -38,10 +36,6 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
 [![Istio service mesh](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)](# 'Istio service mesh, multi-cluster service mesh')
-[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
-[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
-[![CNCF](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=fff)](# 'Datadog')
-[![CNCF](https://img.shields.io/badge/-Cloud%20Native-0086FF?style=for-the-badge&logo=Cncf&logoColor=fff)](# 'Cloud Native')
 [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](# 'Google Cloud Platform')
 [![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
