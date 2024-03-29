@@ -8,29 +8,6 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 ### DevOps & Cloud
 
 
-
-<div align="left">
-
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
-[![Istio service mesh](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)](# 'Istio service mesh, multi-cluster service mesh')
-[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
-[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
-[![CNCF](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=fff)](# 'Datadog')
-[![CNCF](https://img.shields.io/badge/-Cloud%20Native-0086FF?style=for-the-badge&logo=Cncf&logoColor=fff)](# 'Cloud Native')
-[![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](# 'Google Cloud Platform')
-[![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
-[![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
-[![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy delivery pipelines, release management, versioning')
-[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN'))
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=fff)](# 'Jenkins')
-
-</div>
-
-<br />
-
 ### Tech Tools
 
 
@@ -55,6 +32,28 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 </div>
 
 
+
+<div align="left">
+
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)](# 'Kubernetes')
+[![Istio service mesh](https://img.shields.io/badge/-Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)](# 'Istio service mesh, multi-cluster service mesh')
+[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=fff)](# 'Prometheus')
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=fff)](# 'Grafana monitoring')
+[![CNCF](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=fff)](# 'Datadog')
+[![CNCF](https://img.shields.io/badge/-Cloud%20Native-0086FF?style=for-the-badge&logo=Cncf&logoColor=fff)](# 'Cloud Native')
+[![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](# 'Google Cloud Platform')
+[![GKE](https://img.shields.io/badge/-Google%20Kubernetes%20Engine-0f0f24?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Kubernetes Engine (GKE)')
+[![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
+[![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy delivery pipelines, release management, versioning')
+[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN'))
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=fff)](# 'Jenkins')
+
+</div>
+
+<br />
 
 <!-- ## Projects
 
