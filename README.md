@@ -8,9 +8,6 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 ### DevOps & Cloud
 
 
-### Tech Tools
-
-
 
  <div align="left">
 
@@ -31,6 +28,9 @@ I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web a
 [![GSAP](https://img.shields.io/badge/-GSAP%203-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](#)
 </div>
 
+
+
+### Tech Tools
 
 
 <div align="left">
