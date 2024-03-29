@@ -2,7 +2,7 @@
 
 I'm a Fullstack & DevOps Engineer, helping businesses implementing DevOps, Web and app Engineering
 
-📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-babbili.dxb@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:m.ahmedsaeed003@gmail.com)
+📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-m.ahmedsaeed003@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:m.ahmedsaeed003@gmail.com)
 
 
 ### DevOps & Cloud
