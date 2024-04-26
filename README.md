@@ -1,5 +1,5 @@
 ## Hi, I'm Abu Zain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="auto" height="18px" alt="hi">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hi+I+am+Abuzain!;I+am+a+Fullstack+developer;+Specialize+in+React,Node,Next,Python,Django,AWS!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hi+I+am+Abuzain!;I+am+a+Fullstack+developer;Specialize+in+React,Node,Next,Python,Django,AWS!)](https://git.io/typing-svg)
 I'm a Fullstack & DevOps Engineer, helping businesses implement DevOps, web, and app engineering solutions. I have been working on web-related technologies in the past at [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) for several years. Now, I am heavily active on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
 
 📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-zainbinramzan@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:zainbinramzan@gmail.com)
