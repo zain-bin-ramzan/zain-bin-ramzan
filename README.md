@@ -35,10 +35,7 @@ I'm a Fullstack Engineer, helping businesses implement  web, and app engineering
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
 [![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
 [![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
-[![Cloud Deploy](https://img.shields.io/badge/-Cloud%20Deploy-1c1844?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Deploy delivery pipelines, release management, versioning')
-[![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-26205b?style=for-the-badge&logo=&logoColor=d1d2e6)](# 'Google Cloud Compute Engine, VPC networks, Load Balancers, Connectors, VPN tunnels & gateways, Cloud CDN')
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=fff)](# 'Jenkins')
 
 </div>
 
