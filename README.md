@@ -73,3 +73,5 @@ I'm a Fullstack Engineer, helping businesses implement  web, and app engineering
 
 Check for more in my code repositories
   -->
+
+  <img src="https://raw.githubusercontent.com/abuzain432432/abuzain432432/output/snake.svg" alt="Snake animation" />
