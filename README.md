@@ -1,3 +1,4 @@
+![rand](https://rand-xyz.now.sh/api/hello)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=630&height=24&lines=Hi+I+am+Abuzain!;I+am+a+Fullstack+developer!;Specialize+in+React,+Node,+Next,+Python,+Django,+AWS!)](https://git.io/typing-svg)
 I'm a Fullstack Engineer, helping businesses implement  web, and app engineering solutions. I have been working on web-related technologies in the past at [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) for last three years. Now, I am heavily active on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
