@@ -33,16 +33,7 @@ I'm a Fullstack Engineer helping businesses to grow and boost their revenue by d
 
 
 
-### DevOps & Cloud
 
-<div align="left">
-
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](# 'Docker')
-[![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=fff)](# 'Linux')
-[![Cloud Build](https://img.shields.io/badge/-Cloud%20Build-000?style=for-the-badge&logo=&logoColor=ffffff)](# 'Google Cloud Build ci/cd, Build triggers')
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](# 'GitHub Actions')
-
-</div>
 
 <br />
 
