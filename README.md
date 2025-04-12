@@ -5,25 +5,31 @@ I'm a Fullstack Engineer helping businesses to grow and boost their revenue by d
 📫 Reach out to me [here](https://www.devesy.com)! 
 
 
-### Tech Tools
+### 🛠️ Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
- <div align="left">
-
-[![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)](#)
-[![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](#)
-[![NodeJs](https://img.shields.io/badge/-Node%20JS-3C873A?style=for-the-badge&logo=node.js&logoColor=ffffff)](#)
-[![NestJs](https://img.shields.io/badge/-Nest%20JS-e2e2e2?style=for-the-badge&logo=nestjs&logoColor=E0234E)](#)
- [![NEXTJS](https://img.shields.io/badge/-NEXT%20JS-191826?style=for-the-badge&logo=next.js&logoColor=fff)](#)
- [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=000)](#)
- [![GraphQl](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&logo=graphql&logoColor=ffffff)](# 'GraphQl, Graph CMS')
- [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=fff)](#)
- [![Firebase](https://img.shields.io/badge/-Firebase-343c46?style=for-the-badge&logo=firebase&logoColor=FFCA28)](# 'Firebase hosting, Firebase Cloud Functions, Firestore, Firebase realtime database, Firebase Auth')
- [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](#)
- [![CSS3](https://img.shields.io/badge/-CSS3-6441A4?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](# 'CSS, Sass')
-[![GSAP](https://img.shields.io/badge/-GSAP%203-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](#)
-</div>
 
 
 
