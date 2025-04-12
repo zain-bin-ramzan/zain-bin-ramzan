@@ -1,6 +1,6 @@
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-I'm a Fullstack Engineer helping businesses implement web and app engineering solutions. I’ve been part of well-known companies such as [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) over the past 5 years. Currently, I'm actively working on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
+I'm a Fullstack Engineer helping businesses to grow and boost their revenue by developing web and app solutions. I’ve been part of well-known companies such as [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) over the past 5 years. Currently, I'm actively working on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
 
 📫 Reach out to me [here](https://www.devesy.com)! 
 
