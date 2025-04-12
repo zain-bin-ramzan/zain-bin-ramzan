@@ -1,9 +1,8 @@
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-I'm a Fullstack Engineer, helping businesses implement  web, and app engineering solutions. I have been working on web-related technologies in the past at [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) for the last three years. Now, I am heavily active on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
+I'm a Fullstack Engineer, helping businesses implement  web and app engineering solutions. I have been working on web-related technologies in the past at [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) for the last three years. Now, I am heavily active on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
 
-📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-zainbinramzan@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:zainbinramzan@gmail.com)
-
+📫 Reach out to me [here](https://www.devesy.com)! 
 
 
 ### Tech Tools
