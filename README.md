@@ -1,69 +1,113 @@
-![rand](https://rand-xyz.now.sh/api/hello)
+<h1 align="center">Hi 👋, I'm AbuZain</h1>
+<h3 align="center">A passionate Backend Developer & DevOps Engineer from Pakistan</h3>
 
-I'm a Fullstack Engineer helping businesses to grow and boost their revenue by developing web and app solutions. I’ve been part of well-known companies such as [DevTicks](https://www.linkedin.com/company/devticks) and [Enigmatix](https://oms.enigmatix.co/) over the past 5 years. Currently, I'm actively working on [Upwork](https://www.upwork.com/freelancers/~01f5212f73f2d95c53)
+<p align="center">
+  <a href="https://github.com/zain-bin-ramzan">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:zainbinramzan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/abu-husnain-89682a353">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-📫 Reach out to me [here](https://www.devesy.com)! 
+---
 
+## 🚀 About Me
 
-### 🛠️ Languages and Tools:
+I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using *Next.js*.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+- 🔭 I’m currently working on **Muuve**: Leading it's frontend.
+- 🌱 I’m learning **core postgres** and exploring **AI/ML integration** in backend systems.
+- 💬 Ask me about **NestJS**, **Next.js**, **Docker**, **Kubernetes**, and **Microservices**.
+- 👯 I’m open to mentoring fellow developers on **MVP Development**.
 
+## 🛠️ Skills & Tools
 
+### Languages & Frameworks
 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
+### DevOps & Cloud
 
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%2302497B.svg?style=flat-square&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%2313264F.svg?style=flat-square&logo=kubernetes&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
-<br />
+### Databases & Caching
 
-<!-- ## Projects
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
-- ### [giftandmore.shop](https://giftandmore.shop)
-  <small>https://giftandmore.shop</small><br />
+### Others
 
-<img src="https://www.giftandmore.shop/img/search-engine-img.jpg" width="280px" height="auto" style="border-radius: 10px;" />
+- CI/CD: GitHub Actions, CircleCI
+- Monitoring & Logging: Prometheus, Grafana, ELK
+- Testing: Jest, Supertest
+- Scripting: Bash, PowerShell
 
-> Node Js MVC pattern ecommerce Webapp <br />
-> GCP Containerized Compute Engine VM with Cloud Build ci/cd <br />
-> NGINX server with Cyber security configuration  <small> *XSS attacks prevntion, Content Security Policy*</small><br />
-> PayPal server-side integration<br />
-> Pleasant mobile responsive UX/UI, animation on scroll<br />
-> SEO through code, ld+JSON schema.org markups
+---
 
+## 💼 Experience
 
-- ### [FLIPCOINS](https://flipcoins.vercel.app/) 
-  <small>https://flipcoins.vercel.app</small><br />
+Here's your experience rewritten in the same clean and professional format:
 
-<img src="./img/flipcoins.png" width="280px" height="auto" style="border-radius: 10px;" />
+---
 
->Next Js Hybrid webapp: Server Side Rendering & Static Site Generation<br />
->Dynamic Routing<br />
->3D transform-style animated logo<br />
->a native like experience on mobile
+### Senior Frontend Developer, Muuve (Aug 2023 – Apr 2025) — Remote, South Africa
 
+* Built and maintained scalable features using **React**, **Next.js**, and **Tailwind CSS**.
+* Integrated **Google Maps API** and **Paystack** for seamless user experience and payment processing.
+* Achieved a **17% performance boost** using React **memoization techniques**.
+* Used **Next.js dynamic imports** to reduce initial page load times by **10%**.
+* Integrated **AWS S3** for efficient file uploads and media management.
 
-- ### [VR Blog](https://vr-blog.vercel.app/) 
-  <small>https://vr-blog.vercel.app</small><br />
+---
 
+### Fullstack Developer, Devticks (Jan 2023 – Aug 2023) — Hybrid, Bahawalpur
 
+* Developed front and backend systems with **React**, **Next.js**, **Node.js**, and **TypeScript**.
+* Redesigned homepage and product pages, resulting in a **10% increase in sales**.
+* Documented **10+ APIs** using **Swagger**, reducing onboarding time by **25%**.
+* Enhanced “Add to Cart” flow with **React Query** and **optimistic updates**, improving perceived wait time by **200ms**.
+* Wrote **end-to-end tests** for critical user flows using **Playwright** (login, signup, checkout).
+
+---
+
+### Frontend Developer, Enigmatix (Jan 2021 – Jun 2023) — On Site, Bahawalpur
+
+* Built dynamic UIs with **React**, **MobX**, **Redux**, **TypeScript**, and **Ant Design**.
+* Contributed to an internal **Order Management System (OMS)** used by thousands of users.
+* Developed reusable components, eliminating **10–20 redundant files** and hundreds of duplicate lines.
+* Maintained test coverage using **Jest** to ensure code quality and reliability.
+
+---
+
+## 📂 Projects
+[Muuve](https://muuve.co.za/)
+[Pafyll](https://pafyll.com/en-NO)
+[Enigmatix OMS](https://www.oms.enigmatix.co/)
+[Renie](https://www.renie.io/)
+[PackaChange](https://packachange.com/)
+[Miruro](https://www.miruro.tv/)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+
+---
+
+## 📫 Get in Touch
+
+- 📧 zainbinramzan@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abu-husnain-89682a353)
