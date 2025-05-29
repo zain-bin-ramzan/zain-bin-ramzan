@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbuZain</h1>
-<h3 align="center">A passionate Backend Developer & DevOps Engineer from Pakistan</h3>
+<h3 align="center">A passionate Fullstack Engineer from Pakistan</h3>
 
 <p align="center">
   <a href="https://github.com/zain-bin-ramzan">
@@ -90,18 +90,18 @@ I am a full-stack developer with expertise in building robust, scalable services
 ---
 
 ## 📂 Projects
-[Muuve](https://muuve.co.za/)
-[Pafyll](https://pafyll.com/en-NO)
-[Enigmatix OMS](https://www.oms.enigmatix.co/)
-[Renie](https://www.renie.io/)
-[PackaChange](https://packachange.com/)
-[Miruro](https://www.miruro.tv/)
+- [Muuve](https://muuve.co.za/)
+- [Pafyll](https://pafyll.com/en-NO)
+- [Enigmatix OMS](https://www.oms.enigmatix.co/)
+- [Renie](https://www.renie.io/)
+- [PackaChange](https://packachange.com/)
+- [Miruro](https://www.miruro.tv/)
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Techonology**
+**Bachelor of Science in Information Technology**
 
 ---
 
