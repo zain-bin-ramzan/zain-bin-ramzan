@@ -58,8 +58,6 @@ I am a full-stack developer with expertise in building robust, scalable services
 
 ## 💼 Experience
 
-Here's your experience rewritten in the same clean and professional format:
-
 ---
 
 ### Senior Frontend Developer, Muuve (Aug 2023 – Apr 2025) — Remote, South Africa
@@ -103,7 +101,7 @@ Here's your experience rewritten in the same clean and professional format:
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
+**Bachelor of Science in Information Techonology**
 
 ---
 
