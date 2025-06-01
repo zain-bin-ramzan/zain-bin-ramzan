@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating with front-end teams using **Next.js**.
+I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating on front-end using **Next.js**.
 
 - 🔭 I’m currently working on **Muuve**: Leading it's frontend.
 - 🌱 I’m learning **core postgres** and exploring **AI/ML integration** in backend systems.
