@@ -50,9 +50,11 @@ I am a full-stack developer with expertise in building robust, scalable services
 ### Others
 
 - CI/CD: GitHub Actions, CircleCI
-- Monitoring & Logging: Prometheus, Grafana, ELK
+- Monitoring & Logging: Sentry, Prometheus, Grafana, ELK
 - Testing: Jest, Supertest
 - Scripting: Bash, PowerShell
+- Agile Methodologies, Android Studio, Xcode, Expo
+
 
 ---
 
@@ -82,20 +84,26 @@ I am a full-stack developer with expertise in building robust, scalable services
 
 ### Frontend Developer, Enigmatix (Jan 2021 – Jun 2023) — On Site, Bahawalpur
 
-* Built dynamic UIs with **React**, **MobX**, **Redux**, **TypeScript**, and **Ant Design**.
+* Built dynamic UIs with **React**, **React Native**, **MobX**, **Redux**, **TypeScript**, and **Ant Design**.
 * Contributed to an internal **Order Management System (OMS)** used by thousands of users.
 * Developed reusable components, eliminating **10–20 redundant files** and hundreds of duplicate lines.
 * Maintained test coverage using **Jest** to ensure code quality and reliability.
 
 ---
 
-## 📂 Projects
+## 📂 Web Apps
 - [Muuve](https://muuve.co.za/)
 - [Pafyll](https://pafyll.com/en-NO)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/)
 - [Renie](https://www.renie.io/)
 - [PackaChange](https://packachange.com/)
 - [Miruro](https://www.miruro.tv/)
+
+## 📂 Mobile Apps
+- [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en))
+- [GozippRide](https://apps.apple.com/us/app/gozippride/id6742736541))
+- [Enigmatix OMS](https://play.google.com/store/apps/details?id=com.enigmatix.punchinout&hl=en&gl=US))
+
 
 ---
 
