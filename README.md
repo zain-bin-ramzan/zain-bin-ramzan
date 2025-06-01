@@ -100,9 +100,9 @@ I am a full-stack developer with expertise in building robust, scalable services
 - [Miruro](https://www.miruro.tv/)
 
 ## 📂 Mobile Apps
-- [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en))
-- [GozippRide](https://apps.apple.com/us/app/gozippride/id6742736541))
-- [Enigmatix OMS](https://play.google.com/store/apps/details?id=com.enigmatix.punchinout&hl=en&gl=US))
+- [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)
+- [GozippRide](https://apps.apple.com/us/app/gozippride/id6742736541)
+- [Enigmatix OMS](https://play.google.com/store/apps/details?id=com.enigmatix.punchinout&hl=en&gl=US)
 
 
 ---
