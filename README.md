@@ -17,12 +17,9 @@
 
 ## 🚀 About Me
 
-I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m contributing to [Muuve](https://muuve.co.za), crafting microservices with **NestJS**, architecting CI/CD pipelines on **AWS**, and collaborating on front-end using **Next.js**.
+I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m working as a Software Engineer at Intagleo Systems, where I build web applications using React, Next.js, Node.js, and Python.
 
-- 🔭 I’m currently working on **Muuve**: Leading it's frontend.
-- 🌱 I’m learning **core postgres** and exploring **AI/ML integration** in backend systems.
-- 💬 Ask me about **NestJS**, **Next.js**, **Docker**, **Kubernetes**, and **Microservices**.
-- 👯 I’m open to mentoring fellow developers on **MVP Development**.
+
 
 ## 🛠️ Skills & Tools
 
@@ -61,8 +58,16 @@ I am a full-stack developer with expertise in building robust, scalable services
 ## 💼 Experience
 
 ---
+### Software Developer, Intagleo Systems (Oct 2025 – Now) — Lahore, Pakistan
 
-### Senior Frontend Developer, Muuve (Aug 2023 – Apr 2025) — Remote, South Africa
+* ....... Will add soon .........
+* ....... Will add soon .........
+* ....... Will add soon .........
+* ....... Will add soon ........
+
+
+---
+### Senior Frontend Developer, Muuve (Aug 2023 – Nov 2025) — Remote, South Africa
 
 * Built and maintained scalable features using **React**, **Next.js**, and **Tailwind CSS**.
 * Integrated **Google Maps API** and **Paystack** for seamless user experience and payment processing.
@@ -117,3 +122,4 @@ I am a full-stack developer with expertise in building robust, scalable services
 
 - 📧 zainbinramzan@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abu-husnain-89682a353)
+
