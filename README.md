@@ -58,7 +58,7 @@ I am a full-stack developer with expertise in building robust, scalable services
 ## 💼 Experience
 
 ---
-### Software Developer, Intagleo Systems (Oct 2025 – Now) — Lahore, Pakistan
+### Software Developer, Intagleo Systems (July 2025 – Now) — Lahore, Pakistan
 
 * ....... Will add soon .........
 * ....... Will add soon .........
@@ -122,4 +122,5 @@ I am a full-stack developer with expertise in building robust, scalable services
 
 - 📧 zainbinramzan@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abu-husnain-89682a353)
+
 
