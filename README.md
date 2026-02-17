@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I’m working as a Software Engineer at Intagleo Systems, where I build web applications using React, Next.js, Node.js, and Python.
+I am a full-stack developer with expertise in building robust, scalable services and automating infrastructure. Currently, I'm working as a Software Engineer at Intagleo Systems, where I build software and web applications using React.js, Next.js, Node.js, and Python.
 
 
 
@@ -130,6 +130,7 @@ I am a full-stack developer with expertise in building robust, scalable services
 ## 📚 Latest Medium Posts
 
 📖 Check out my latest article: [Microservice Architecture with Nest.js](https://medium.com/@abu-zain/microservice-architecture-with-nest-js-66388d5908c0)
+
 
 
 
