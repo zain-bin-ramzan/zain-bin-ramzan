@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/abu-husnain-89682a353">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+    <a href="https://medium.com/@abu-zain">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 ---
@@ -127,5 +130,6 @@ I am a full-stack developer with expertise in building robust, scalable services
 ## 📚 Latest Medium Posts
 
 📖 Check out my latest article: [Microservice Architecture with Nest.js](https://medium.com/@abu-zain/microservice-architecture-with-nest-js-66388d5908c0)
+
 
 
