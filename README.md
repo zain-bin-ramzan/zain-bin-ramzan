@@ -123,4 +123,9 @@ I am a full-stack developer with expertise in building robust, scalable services
 - 📧 zainbinramzan@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abu-husnain-89682a353)
 
+---
+## 📚 Latest Medium Posts
+
+📖 Check out my latest article: [Microservice Architecture with Nest.js](https://medium.com/@abu-zain/microservice-architecture-with-nest-js-66388d5908c0)
+
 
