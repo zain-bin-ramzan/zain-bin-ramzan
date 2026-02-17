@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbuZain</h1>
-<h3 align="center">A passionate Fullstack Engineer from Pakistan</h3>
+<h3 align="center">Code. Deploy. Scale. Repeat.</h3>
 
 <p align="center">
   <a href="https://github.com/zain-bin-ramzan">
@@ -120,16 +120,10 @@ I am a full-stack developer with expertise in building robust, scalable services
 **Bachelor of Science in Information Technology**
 
 ---
-
-## 📫 Get in Touch
-
-- 📧 zainbinramzan@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abu-husnain-89682a353)
-
----
 ## 📚 Latest Medium Posts
 
 📖 Check out my latest article: [Microservice Architecture with Nest.js](https://medium.com/@abu-zain/microservice-architecture-with-nest-js-66388d5908c0)
+
 
 
 
