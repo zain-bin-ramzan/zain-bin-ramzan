@@ -104,7 +104,6 @@ I am a full-stack developer with expertise in building robust, scalable services
 - [Pafyll](https://pafyll.com/en-NO)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/)
 - [Renie](https://www.renie.io/)
-- [PackaChange](https://packachange.com/)
 - [Miruro](https://www.miruro.tv/)
 
 ## 📂 Mobile Apps
