@@ -116,7 +116,6 @@ I am a Senior Software Engineer with 6+ years of experience building robust, sca
 ---
 
 ## 📂 Web Apps
-- [Digital Building Management System](https://omnisystems.co.uk/)
 - [Muuve](https://muuve.co.za/)
 - [Pafyll](https://pafyll.com/en-NO)
 - [Enigmatix OMS](https://www.oms.enigmatix.co/)
