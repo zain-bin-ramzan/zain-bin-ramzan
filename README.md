@@ -80,6 +80,17 @@ I am a Senior Software Engineer with 6+ years of experience building robust, sca
 * Conducted penetration testing with **OWASP ZAP**, remediating **300+ vulnerabilities** and eradicating **100% of high-risk** and **90% of medium-risk** issues.
 * Built an IdP-agnostic **SAML 2.0** microservice (Okta and others) with **FastAPI** on **AWS Lambda** with **CloudWatch** monitoring, cutting enterprise user onboarding from days to minutes.
 
+---
+### Independent Full-Stack & AI Consultant | Confidential Legal Tech Client - Remote | Oct 2025 – Jun 2026
+
+* Architected a full-stack AI-powered legal analysis platform using React 19, NestJS, and PostgreSQL, enabling legal teams to analyze court transcripts and video depositions through a centralized workspace.
+* Engineered asynchronous RAG pipelines integrating document ingestion, embeddings, vector search, and webhook-driven AI workflows across multiple services.
+* Built AI-powered chat and querying capabilities, allowing legal teams to analyze individual depositions or entire cases with citation-backed findings and goal verification.
+* Implemented secure multi-tenant RBAC using AWS Cognito JWT authentication, supporting hierarchical access control across organizations, cases, and depositions.
+* Designed and deployed cloud-native infrastructure using AWS ECS, ALB, CloudFront, RDS, S3, and Secrets Manager.
+* Developed multi-format document and video ingestion pipelines supporting PDF, VTT, SRT, XML, CSV, and JSON, integrating Cloudflare Stream for resumable uploads and secure playback.
+* Built a human-in-the-loop AI verification system, enabling lawyers to validate, correct, and flag AI-generated findings while maintaining version history for legal compliance
+
 
 ---
 ### Founding Engineer (Frontend), Muuve (Aug 2023 – Apr 2025) — Remote, South Africa
